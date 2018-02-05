@@ -1,0 +1,12 @@
+@import '_colors';
+
+@font-face {
+  src: url('../media/amaranth.otf') format('opentype');
+  font-family: 'Amaranth-Regular';
+}
+
+body {
+  font-family: 'Amaranth-Regular';
+  font-size: 40px;
+  background: $bgcolor;
+}
